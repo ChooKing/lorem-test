@@ -1,6 +1,6 @@
 {
   "name": "lorem-test",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@10.11.0",
   "description": "A placeholder text generator for Javascript.",
   "type": "module",
