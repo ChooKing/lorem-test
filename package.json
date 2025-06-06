@@ -1,6 +1,6 @@
 {
   "name": "lorem-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@10.11.0",
   "description": "A placeholder text generator for Javascript.",
   "type": "module",
@@ -50,6 +50,5 @@
     "tsx": "^4.19.4",
     "typescript": "^5.8.3",
     "vitest": "^3.1.3"
-  },
-
+  }
 }
