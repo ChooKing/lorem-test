@@ -1,3 +1,5 @@
+//All tests run with "One two three. Four five."
+//Actual lorem text not used for these tests. Synthetic text easier to analyze.
 import { expect, test } from 'vitest'
 import { lorem } from '../src'
 
