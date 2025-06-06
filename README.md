@@ -1,5 +1,5 @@
 # Lorem Test
-The lorem test library consists of a single lorem() function, which returns a placeholder string of the specified length based on lorem ipsum.
+The lorem test library consists of a single lorem() function, which returns a placeholder string of the specified length in number of words based on lorem ipsum.
 
 **Example Usage**
 ```js
